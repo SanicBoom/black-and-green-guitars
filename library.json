@@ -1780,5 +1780,1699 @@
     "twang_gb6_p_rr1_1": "green/ord/twang_gb6_p_rr1.wav",
     "twang_gb6_p_rr2": "black/ord/twang_gb6_p_rr2.wav",
     "twang_gb6_p_rr2_1": "green/ord/twang_gb6_p_rr2.wav"
-  }
+  },
+  "noteMap": [
+    {
+      "note": "E3",
+      "sample": "twang_e3_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "E3",
+      "sample": "twang_e3_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "E3",
+      "sample": "twang_e3_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "E3",
+      "sample": "twang_e3_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "E3",
+      "sample": "twang_e3_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "E3",
+      "sample": "twang_e3_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F3",
+      "sample": "twang_f3_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F3",
+      "sample": "twang_f3_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F3",
+      "sample": "twang_f3_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F3",
+      "sample": "twang_f3_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F3",
+      "sample": "twang_f3_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F3",
+      "sample": "twang_f3_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F#3",
+      "sample": "twang_gb3_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F#3",
+      "sample": "twang_gb3_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F#3",
+      "sample": "twang_gb3_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F#3",
+      "sample": "twang_gb3_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F#3",
+      "sample": "twang_gb3_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F#3",
+      "sample": "twang_gb3_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "G3",
+      "sample": "twang_g3_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "G3",
+      "sample": "twang_g3_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "G3",
+      "sample": "twang_g3_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "G3",
+      "sample": "twang_g3_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "G3",
+      "sample": "twang_g3_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "G3",
+      "sample": "twang_g3_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "G#3",
+      "sample": "twang_ab3_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "G#3",
+      "sample": "twang_ab3_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "G#3",
+      "sample": "twang_ab3_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "G#3",
+      "sample": "twang_ab3_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "G#3",
+      "sample": "twang_ab3_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "G#3",
+      "sample": "twang_ab3_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A3",
+      "sample": "twang_a3_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A3",
+      "sample": "twang_a3_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A3",
+      "sample": "twang_a3_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "A3",
+      "sample": "twang_a3_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "A3",
+      "sample": "twang_a3_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A3",
+      "sample": "twang_a3_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A#3",
+      "sample": "twang_bb3_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A#3",
+      "sample": "twang_bb3_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A#3",
+      "sample": "twang_bb3_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "A#3",
+      "sample": "twang_bb3_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "A#3",
+      "sample": "twang_bb3_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A#3",
+      "sample": "twang_bb3_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "B3",
+      "sample": "twang_b3_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "B3",
+      "sample": "twang_b3_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "B3",
+      "sample": "twang_b3_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "B3",
+      "sample": "twang_b3_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "B3",
+      "sample": "twang_b3_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "B3",
+      "sample": "twang_b3_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "C4",
+      "sample": "twang_c4_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "C4",
+      "sample": "twang_c4_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "C4",
+      "sample": "twang_c4_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "C4",
+      "sample": "twang_c4_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "C4",
+      "sample": "twang_c4_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "C4",
+      "sample": "twang_c4_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "C#4",
+      "sample": "twang_db4_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "C#4",
+      "sample": "twang_db4_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "C#4",
+      "sample": "twang_db4_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "C#4",
+      "sample": "twang_db4_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "C#4",
+      "sample": "twang_db4_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "C#4",
+      "sample": "twang_db4_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D4",
+      "sample": "twang_d4_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D4",
+      "sample": "twang_d4_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D4",
+      "sample": "twang_d4_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "D4",
+      "sample": "twang_d4_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "D4",
+      "sample": "twang_d4_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D4",
+      "sample": "twang_d4_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D#4",
+      "sample": "twang_eb4_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D#4",
+      "sample": "twang_eb4_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D#4",
+      "sample": "twang_eb4_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "D#4",
+      "sample": "twang_eb4_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "D#4",
+      "sample": "twang_eb4_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D#4",
+      "sample": "twang_eb4_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "E4",
+      "sample": "twang_e4_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "E4",
+      "sample": "twang_e4_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "E4",
+      "sample": "twang_e4_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "E4",
+      "sample": "twang_e4_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "E4",
+      "sample": "twang_e4_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "E4",
+      "sample": "twang_e4_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F4",
+      "sample": "twang_f4_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F4",
+      "sample": "twang_f4_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F4",
+      "sample": "twang_f4_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F4",
+      "sample": "twang_f4_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F4",
+      "sample": "twang_f4_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F4",
+      "sample": "twang_f4_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F#4",
+      "sample": "twang_gb4_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F#4",
+      "sample": "twang_gb4_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F#4",
+      "sample": "twang_gb4_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F#4",
+      "sample": "twang_gb4_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F#4",
+      "sample": "twang_gb4_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F#4",
+      "sample": "twang_gb4_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "G4",
+      "sample": "twang_g4_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "G4",
+      "sample": "twang_g4_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "G4",
+      "sample": "twang_g4_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "G4",
+      "sample": "twang_g4_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "G4",
+      "sample": "twang_g4_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "G4",
+      "sample": "twang_g4_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "G#4",
+      "sample": "twang_ab4_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "G#4",
+      "sample": "twang_ab4_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "G#4",
+      "sample": "twang_ab4_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "G#4",
+      "sample": "twang_ab4_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "G#4",
+      "sample": "twang_ab4_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "G#4",
+      "sample": "twang_ab4_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A4",
+      "sample": "twang_a4_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A4",
+      "sample": "twang_a4_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A4",
+      "sample": "twang_a4_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "A4",
+      "sample": "twang_a4_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "A4",
+      "sample": "twang_a4_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A4",
+      "sample": "twang_a4_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A#4",
+      "sample": "twang_bb4_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A#4",
+      "sample": "twang_bb4_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A#4",
+      "sample": "twang_bb4_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "A#4",
+      "sample": "twang_bb4_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "A#4",
+      "sample": "twang_bb4_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A#4",
+      "sample": "twang_bb4_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "B4",
+      "sample": "twang_b4_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "B4",
+      "sample": "twang_b4_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "B4",
+      "sample": "twang_b4_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "B4",
+      "sample": "twang_b4_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "B4",
+      "sample": "twang_b4_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "B4",
+      "sample": "twang_b4_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "C5",
+      "sample": "twang_c5_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "C5",
+      "sample": "twang_c5_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "C5",
+      "sample": "twang_c5_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "C5",
+      "sample": "twang_c5_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "C5",
+      "sample": "twang_c5_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "C5",
+      "sample": "twang_c5_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "C#5",
+      "sample": "twang_db5_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "C#5",
+      "sample": "twang_db5_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "C#5",
+      "sample": "twang_db5_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "C#5",
+      "sample": "twang_db5_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "C#5",
+      "sample": "twang_db5_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "C#5",
+      "sample": "twang_db5_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D5",
+      "sample": "twang_d5_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D5",
+      "sample": "twang_d5_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D5",
+      "sample": "twang_d5_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "D5",
+      "sample": "twang_d5_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "D5",
+      "sample": "twang_d5_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D5",
+      "sample": "twang_d5_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D#5",
+      "sample": "twang_eb5_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D#5",
+      "sample": "twang_eb5_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D#5",
+      "sample": "twang_eb5_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "D#5",
+      "sample": "twang_eb5_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "D#5",
+      "sample": "twang_eb5_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D#5",
+      "sample": "twang_eb5_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "E5",
+      "sample": "twang_e5_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "E5",
+      "sample": "twang_e5_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "E5",
+      "sample": "twang_e5_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "E5",
+      "sample": "twang_e5_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "E5",
+      "sample": "twang_e5_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "E5",
+      "sample": "twang_e5_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F5",
+      "sample": "twang_f5_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F5",
+      "sample": "twang_f5_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F5",
+      "sample": "twang_f5_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F5",
+      "sample": "twang_f5_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F5",
+      "sample": "twang_f5_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F5",
+      "sample": "twang_f5_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F#5",
+      "sample": "twang_gb5_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F#5",
+      "sample": "twang_gb5_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F#5",
+      "sample": "twang_gb5_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F#5",
+      "sample": "twang_gb5_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F#5",
+      "sample": "twang_gb5_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F#5",
+      "sample": "twang_gb5_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "G5",
+      "sample": "twang_g5_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "G5",
+      "sample": "twang_g5_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "G5",
+      "sample": "twang_g5_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "G5",
+      "sample": "twang_g5_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "G5",
+      "sample": "twang_g5_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "G5",
+      "sample": "twang_g5_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "G#5",
+      "sample": "twang_ab5_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "G#5",
+      "sample": "twang_ab5_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "G#5",
+      "sample": "twang_ab5_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "G#5",
+      "sample": "twang_ab5_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "G#5",
+      "sample": "twang_ab5_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "G#5",
+      "sample": "twang_ab5_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A5",
+      "sample": "twang_a5_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A5",
+      "sample": "twang_a5_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A5",
+      "sample": "twang_a5_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "A5",
+      "sample": "twang_a5_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "A5",
+      "sample": "twang_a5_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A5",
+      "sample": "twang_a5_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A#5",
+      "sample": "twang_bb5_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A#5",
+      "sample": "twang_bb5_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A#5",
+      "sample": "twang_bb5_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "A#5",
+      "sample": "twang_bb5_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "A#5",
+      "sample": "twang_bb5_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A#5",
+      "sample": "twang_bb5_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "B5",
+      "sample": "twang_b5_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "B5",
+      "sample": "twang_b5_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "B5",
+      "sample": "twang_b5_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "B5",
+      "sample": "twang_b5_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "B5",
+      "sample": "twang_b5_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "B5",
+      "sample": "twang_b5_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "C6",
+      "sample": "twang_c6_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "C6",
+      "sample": "twang_c6_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "C6",
+      "sample": "twang_c6_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "C6",
+      "sample": "twang_c6_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "C6",
+      "sample": "twang_c6_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "C6",
+      "sample": "twang_c6_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "C#6",
+      "sample": "twang_db6_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "C#6",
+      "sample": "twang_db6_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "C#6",
+      "sample": "twang_db6_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "C#6",
+      "sample": "twang_db6_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "C#6",
+      "sample": "twang_db6_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "C#6",
+      "sample": "twang_db6_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D6",
+      "sample": "twang_d6_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D6",
+      "sample": "twang_d6_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D6",
+      "sample": "twang_d6_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "D6",
+      "sample": "twang_d6_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "D6",
+      "sample": "twang_d6_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D6",
+      "sample": "twang_d6_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D#6",
+      "sample": "twang_eb6_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D#6",
+      "sample": "twang_eb6_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D#6",
+      "sample": "twang_eb6_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "D#6",
+      "sample": "twang_eb6_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "D#6",
+      "sample": "twang_eb6_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D#6",
+      "sample": "twang_eb6_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "E6",
+      "sample": "twang_e6_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "E6",
+      "sample": "twang_e6_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "E6",
+      "sample": "twang_e6_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "E6",
+      "sample": "twang_e6_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "E6",
+      "sample": "twang_e6_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "E6",
+      "sample": "twang_e6_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F6",
+      "sample": "twang_f6_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F6",
+      "sample": "twang_f6_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F6",
+      "sample": "twang_f6_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F6",
+      "sample": "twang_f6_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F6",
+      "sample": "twang_f6_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F6",
+      "sample": "twang_f6_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F#6",
+      "sample": "twang_gb6_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F#6",
+      "sample": "twang_gb6_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F#6",
+      "sample": "twang_gb6_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F#6",
+      "sample": "twang_gb6_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F#6",
+      "sample": "twang_gb6_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F#6",
+      "sample": "twang_gb6_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "G6",
+      "sample": "twang_g6_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "G6",
+      "sample": "twang_g6_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "G6",
+      "sample": "twang_g6_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "G6",
+      "sample": "twang_g6_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "G6",
+      "sample": "twang_g6_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "G6",
+      "sample": "twang_g6_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "G#6",
+      "sample": "twang_ab6_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "G#6",
+      "sample": "twang_ab6_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "G#6",
+      "sample": "twang_ab6_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "G#6",
+      "sample": "twang_ab6_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "G#6",
+      "sample": "twang_ab6_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "G#6",
+      "sample": "twang_ab6_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A6",
+      "sample": "twang_a6_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A6",
+      "sample": "twang_a6_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A6",
+      "sample": "twang_a6_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "A6",
+      "sample": "twang_a6_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "A6",
+      "sample": "twang_a6_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A6",
+      "sample": "twang_a6_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A#6",
+      "sample": "twang_bb6_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A#6",
+      "sample": "twang_bb6_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A#6",
+      "sample": "twang_bb6_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "A#6",
+      "sample": "twang_bb6_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "A#6",
+      "sample": "twang_bb6_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A#6",
+      "sample": "twang_bb6_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "B6",
+      "sample": "twang_b6_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "B6",
+      "sample": "twang_b6_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "B6",
+      "sample": "twang_b6_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "B6",
+      "sample": "twang_b6_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "B6",
+      "sample": "twang_b6_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "B6",
+      "sample": "twang_b6_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "C7",
+      "sample": "twang_c7_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "C7",
+      "sample": "twang_c7_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "C7",
+      "sample": "twang_c7_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "C7",
+      "sample": "twang_c7_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "C7",
+      "sample": "twang_c7_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "C7",
+      "sample": "twang_c7_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "C#7",
+      "sample": "twang_db7_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "C#7",
+      "sample": "twang_db7_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "C#7",
+      "sample": "twang_db7_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "C#7",
+      "sample": "twang_db7_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "C#7",
+      "sample": "twang_db7_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "C#7",
+      "sample": "twang_db7_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D7",
+      "sample": "twang_d7_f_rr1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D7",
+      "sample": "twang_d7_f_rr1_1",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D7",
+      "sample": "twang_d7_mf_rr1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "D7",
+      "sample": "twang_d7_mf_rr1_1",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "D7",
+      "sample": "twang_d7_p_rr1",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D7",
+      "sample": "twang_d7_p_rr1_1",
+      "loVel": 0,
+      "hiVel": 42
+    }
+  ]
 }
